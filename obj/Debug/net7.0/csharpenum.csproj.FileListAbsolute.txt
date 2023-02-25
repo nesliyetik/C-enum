@@ -1,0 +1,15 @@
+C:\Pratikler\csharpenum\bin\Debug\net7.0\csharpenum.exe
+C:\Pratikler\csharpenum\bin\Debug\net7.0\csharpenum.deps.json
+C:\Pratikler\csharpenum\bin\Debug\net7.0\csharpenum.runtimeconfig.json
+C:\Pratikler\csharpenum\bin\Debug\net7.0\csharpenum.dll
+C:\Pratikler\csharpenum\bin\Debug\net7.0\csharpenum.pdb
+C:\Pratikler\csharpenum\obj\Debug\net7.0\csharpenum.csproj.AssemblyReference.cache
+C:\Pratikler\csharpenum\obj\Debug\net7.0\csharpenum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pratikler\csharpenum\obj\Debug\net7.0\csharpenum.AssemblyInfoInputs.cache
+C:\Pratikler\csharpenum\obj\Debug\net7.0\csharpenum.AssemblyInfo.cs
+C:\Pratikler\csharpenum\obj\Debug\net7.0\csharpenum.csproj.CoreCompileInputs.cache
+C:\Pratikler\csharpenum\obj\Debug\net7.0\csharpenum.dll
+C:\Pratikler\csharpenum\obj\Debug\net7.0\refint\csharpenum.dll
+C:\Pratikler\csharpenum\obj\Debug\net7.0\csharpenum.pdb
+C:\Pratikler\csharpenum\obj\Debug\net7.0\csharpenum.genruntimeconfig.cache
+C:\Pratikler\csharpenum\obj\Debug\net7.0\ref\csharpenum.dll
